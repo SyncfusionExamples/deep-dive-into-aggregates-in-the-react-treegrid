@@ -1,4 +1,4 @@
-# Different Editing Modes and Cell Edit Types in React Tree Grid
+# Deep Dive into Aggregates in the React TreeGrid
 
 A quick-start project that helps you to display aggregate values in the columns of the React TreeGrid component. It also has code to customize the footer aggregate and add custom aggregate functions. 
 
