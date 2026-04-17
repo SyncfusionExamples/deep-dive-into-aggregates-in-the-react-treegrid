@@ -1,10 +1,10 @@
 # Deep Dive into Aggregates in the React TreeGrid
 
 ## Repository Description
-This repository is a focused sample application that demonstrates how to configure and use aggregate calculations with the React TreeGrid component from Syncfusion's component library. 
+This repository is a focused sample application that demonstrates configuring and use aggregate calculations with the React TreeGrid component from Syncfusion's component library. 
 
 ## overview 
-The example shows how to display built-in aggregate values (sum, average, count, min, max), how to add and render custom aggregate functions, and how to customize the footer area to present the aggregate results.
+The example shows to display built-in aggregate values (sum, average, count, min, max), to add and render custom aggregate functions, and  to customize the footer area to present the aggregate results.
 
 ## Features
 - Demonstrate the aggregate integration in treegrid sample.
