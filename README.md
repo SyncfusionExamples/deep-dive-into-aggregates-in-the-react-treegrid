@@ -1,35 +1,46 @@
 # Deep Dive into Aggregates in the React TreeGrid
 
-This repository is a focused sample application that demonstrates how to configure and use aggregate calculations with the React TreeGrid component from Syncfusion's component library. The example shows how to display built-in aggregate values (sum, average, count, min, max), how to add and render custom aggregate functions, and how to customize the footer area to present the aggregate results.
+## Repository Description
+This repository is a focused sample application that demonstrates how to configure and use aggregate calculations with the React TreeGrid component from Syncfusion's component library. 
 
-Key highlights:
-- Illustrated usage of TreeGrid column aggregates and footer templates.
-- Example of custom aggregate function implementation and registration.
+## overview 
+The example shows how to display built-in aggregate values (sum, average, count, min, max), how to add and render custom aggregate functions, and how to customize the footer area to present the aggregate results.
 
-Documentation: https://ej2.syncfusion.com/react/documentation/treegrid/aggregate/
-Online demo: https://ej2.syncfusion.com/react/demos/#/material/treegrid/aggregate-default
+## Features
+-Demonstrate the aggregate integration in treegrid sample.
+
+-Demonstrate the custom aggregate integration in treegrid sample.
 
 ## Project prerequisites
 
-Before running this project, ensure you have the following installed on your development machine:
-- Node.js (LTS recommended)
-- npm (bundled with modern Node.js releases)
-- A modern code editor such as Visual Studio Code
+Before starting, ensure you have the following installed:
+- **Node.js**: Latest stable version
+- **Visual Studio Code**: Latest version recommended
+- **npm**: Node Package Manager (included with Node.js)
+- Basic knowledge of React and JavaScript
 
-## Installation and quick start
+## Installation
 
-1. Clone this repository to your local machine.
-2. Open the project folder in Visual Studio Code or your preferred editor.
-3. Install dependencies by running:
+Clone and set up the project:
 
 ```
+git clone https://github.com/SyncfusionExamples/deep-dive-into-aggregates-in-the-react-treegrid
+cd deep-dive-into-aggregates-in-the-react-treegrid
 npm install
 ```
-
-4. Start the development server with:
-
+## Running the Application
+ 
+Start the development server:
+ 
 ```
 npm start
 ```
+ 
+The application will open in your default browser. Any changes you make to the source files will automatically reload the application.
+ 
+## Examples
+Explore Syncfusion EJ2 TreeGrid aggregate examples:
 
-The app will open in your default browser (usually at `http://localhost:3000`). Changes to source files will trigger a hot-reload so you can iterate quickly.
+https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/aggregate-default
+
+https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/custom-aggregate
