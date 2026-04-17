@@ -43,3 +43,8 @@ Explore Syncfusion EJ2 TreeGrid aggregate examples:
 https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/aggregate-default
 
 https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/custom-aggregate
+
+## Documentation
+ 
+For detailed information and configuration options:
+https://ej2.syncfusion.com/react/documentation/treegrid/aggregates/aggregates
