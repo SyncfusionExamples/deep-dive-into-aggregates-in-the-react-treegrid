@@ -7,9 +7,8 @@ This repository is a focused sample application that demonstrates how to configu
 The example shows how to display built-in aggregate values (sum, average, count, min, max), how to add and render custom aggregate functions, and how to customize the footer area to present the aggregate results.
 
 ## Features
--Demonstrate the aggregate integration in treegrid sample.
-
--Demonstrate the custom aggregate integration in treegrid sample.
+- Demonstrate the aggregate integration in treegrid sample.
+- Demonstrate the custom aggregate integration in treegrid sample.
 
 ## Project prerequisites
 
